@@ -1,1 +1,0 @@
-# From Micro to Mes A Data-Driven Mesoscopic Region Division Method Based on Functional Connectivity for EEG-Based Driver Fatigue Detection
